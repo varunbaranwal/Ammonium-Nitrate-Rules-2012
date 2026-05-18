@@ -1,8 +1,8 @@
-#32. Period of validity of licence.  
+# 32. Period of validity of licence.  
 
 The licensing authority may grant a licence for a period not exceeding five financial years or part thereof ending on the 31st March for all purposes, except for licence for import and export, which shall be one year.  
 
-#36. Renewal of licence.  
+# 36. Renewal of licence.  
 
 (1) Every licence except the licences granted for import or export of Ammonium Nitrate shall be renewable for a maximum period of five financial years ending on the 31st March.  
     
